@@ -43,7 +43,7 @@ ms.localizationpriority: high
 *More frequent updates to the desktop clients are to be expected as issues are fixed and features added.*  
 
 - The Edit class team dialogue show sensitivity label, however these are not supported in class teams and a fix is expected in the end of January. 
-- Weekly digest mail settings are missing
+- Weekly digest mail settings are missing.
 - When navigating to Teams from microsoft365.com, the top navigation bar is not working as expected and both search and profile menu are missing. The plan is to fix this by February, in the meantime use a taskbar shortcut or navigate directly to *teams.microsoft.com* to avoid the issue.
 - Students are able to reply to posts by bots like the Assignment bot in the General channel even if channel moderation is enabled. A workaround is to publish assignments in another channel where channel moderation is enabled, and in channel settings you have enabled "Allow bots to submit channel messages".
 - Create team from an existing class team is currently broken, but a fix is expected in a few days.
